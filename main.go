@@ -72,7 +72,7 @@ func handleError(err error) {
 }
 
 func collectvm() (virtualmachines []virtualmachine) {
-	f, err := os.Open("vmlist.csv")
+	f, err := os.Open("VMList.csv")
 	handleError(err)
 	defer f.Close()
 
