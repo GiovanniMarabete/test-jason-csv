@@ -1,0 +1,17 @@
+[
+ {
+  "action": "off",
+  "vmname": "server1",
+  "ipaddress": "10.0.0.1"
+ },
+ {
+  "action": "on",
+  "vmname": "server2",
+  "ipaddress": "10.0.0.2"
+ },
+ {
+  "action": "off",
+  "vmname": "server3",
+  "ipaddress": "10.0.0.3"
+ }
+]

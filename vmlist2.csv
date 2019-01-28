@@ -1,0 +1,4 @@
+Action,VMName,IPAddress
+off,server1,10.0.0.1
+on,server2,10.0.0.2
+off,server3,10.0.0.3
